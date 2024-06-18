@@ -1,0 +1,17 @@
+[
+
+    {
+        "id": "macetas",
+        "nombre":"Macetas"
+    },
+
+    {
+        "id": "mates",
+        "nombre":"Mates"
+    },
+
+    {
+        "id": "accesorios",
+        "nombre": "Accesorios"
+    }
+]

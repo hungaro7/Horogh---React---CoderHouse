@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "nombre": "Maceta N1",
+        "precio": 19.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "maceta pintada a mano",
+        "categoria": {
+            "id": "macetas",
+            "nombre": "Macetas"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Maceta N2",
+        "precio": 49.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "maceta pintada a mano",
+        "categoria": {
+            "id": "macetas",
+            "nombre": "Macetas"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Mochila Escolar",
+        "precio": 24.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Mochila resistente y espaciosa, ideal para el día a día escolar.",
+        "categoria": {
+            "id": "accesorios",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Mate los piojos",
+        "precio": 29.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Mate pintado a mano",
+        "categoria": {
+            "id": "mates",
+            "nombre": "Mates"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Mate Maradona",
+        "precio": 79.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Mate pintado a mano",
+        "categoria": {
+            "id": "mates",
+            "nombre": "Mates"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Maceta N3",
+        "precio": 15.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Gafas con protección UV y diseño moderno.",
+        "categoria": {
+            "id": "macetas",
+            "nombre": "Macetas"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Bolígrafo de Lujo",
+        "precio": 9.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Bolígrafo elegante y duradero, perfecto para regalos.",
+        "categoria": {
+            "id": "accesorios",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Mate floreado",
+        "precio": 19.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "maceta pintada a mano",
+        "categoria": {
+            "id": "mates",
+            "nombre": "Mates"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Termo de Acero Inoxidable",
+        "precio": 14.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Termo de alta calidad que mantiene las bebidas calientes o frías por horas.",
+        "categoria": {
+            "id": "accesorios",
+            "nombre": "Accesorios"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Libreta de Notas",
+        "precio": 7.99,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Libreta con cubierta dura y papel de alta calidad.",
+        "categoria": {
+            "id": "accesorios",
+            "nombre": "Accesorios"
+        }
+    }
+]
